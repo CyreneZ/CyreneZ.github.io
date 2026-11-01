@@ -1,0 +1,4 @@
+*.bat text eol=crlf
+*.mp4 binary
+*.webp binary
+*.jpg binary
